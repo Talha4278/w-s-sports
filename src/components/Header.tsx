@@ -10,7 +10,7 @@ export default function Header() {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">
             <div className="flex-shrink-0">
-              <h1 className="text-2xl font-bold text-[#CB1F2F]">W/S Sports</h1>
+              <h1 className="text-2xl font-bold text-[#CB1F2F]">KR Net Makers</h1>
             </div>
           </div>
 

@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-8">
           <div>
-            <h3 className="text-2xl font-bold text-[#CB1F2F] mb-4">W/S Sports</h3>
+            <h3 className="text-2xl font-bold text-[#CB1F2F] mb-4">KR Net Makers</h3>
             <p className="text-gray-400 mb-4">
               Your trusted partner for premium sports equipment and apparel. Quality you can count on.
             </p>
@@ -55,11 +55,11 @@ export default function Footer() {
               </li>
               <li className="flex items-center">
                 <Phone className="w-5 h-5 mr-2 flex-shrink-0 text-[#CB1F2F]" />
-                <span className="text-gray-400">+92 300 1234567</span>
+                <span className="text-gray-400">+932 0105 5156</span>
               </li>
               <li className="flex items-center">
                 <Mail className="w-5 h-5 mr-2 flex-shrink-0 text-[#CB1F2F]" />
-                <span className="text-gray-400">info@gulraiz.com</span>
+                <span className="text-gray-400">krnetmakersofficial@gmail.com</span>
               </li>
             </ul>
           </div>
@@ -68,7 +68,7 @@ export default function Footer() {
         <div className="border-t border-gray-700 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm mb-4 md:mb-0">
-              &copy; 2024 W/S Sports. All rights reserved.
+              &copy; 2024 KR Net Makers. All rights reserved.
             </p>
             <div className="flex space-x-6 text-sm">
               <a href="#" className="text-gray-400 hover:text-[#CB1F2F] transition-colors">Privacy Policy</a>
